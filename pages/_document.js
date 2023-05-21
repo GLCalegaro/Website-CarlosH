@@ -5,7 +5,6 @@ export default function Document() {
     <Html lang="en">
       <title>Carlos Hilsdorf</title>
       <Head />
-      <script src="/jquery/location/jquery.min.js"></script>
       <body>
         <Main />
         <NextScript />
